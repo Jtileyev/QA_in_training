@@ -7,5 +7,5 @@ pip install selenium-x.x.x.-py3-none-any.whl
 # Require in project | requirements.txt
 selenium==4.31.0
 
-# Example !
+# Example !!!
 https://github.com/SeleniumHQ/seleniumhq.github.io/blob/trunk/examples/python/requirements.txt#L1
